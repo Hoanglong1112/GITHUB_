@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main() {
     printf("EMBEDEDD");
-    printf("DEV02");
-    printf("DEV");
+    printf("DEV01");
+    printf("Stash");
     return 0;
 }
